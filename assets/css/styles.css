@@ -517,11 +517,11 @@ header {
 }
 
 .skills_js {
-   width: 90%;
+   width: 70%;
 }
 
 .skills_react {
-   width: 90%;
+   width: 60%;
 }
 
 .skills_php {
@@ -529,26 +529,22 @@ header {
 }
 
 .skills_node {
-   width: 90%;
+   width: 50%;
 }
 
 .skills_mongodb {
-   width: 90%;
+   width: 60%;
 }
 
 .skills_python {
-   width: 90%;
+   width: 70%;
 }
 
-.skills_figma {
-   width: 90%;
+.skills_java {
+   width: 80%;
 }
 
-.skills_sketch {
-   width: 90%;
-}
-
-.skills_photoshop {
+.skills_c {
    width: 90%;
 }
 
